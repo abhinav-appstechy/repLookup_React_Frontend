@@ -1,0 +1,1 @@
+export const BACKEND_BASE_URL="https://92e5-2401-4900-1c2b-94f4-3ccb-f4ca-d808-7dbc.ngrok-free.app"
