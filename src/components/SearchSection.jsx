@@ -32,7 +32,7 @@ const SearchSection = () => {
       })
       .then((data) => {
         if (data.status == 200) {
-          console.log(data);
+          // console.log(data);
           setResultData(data.data);
           setIsSearchingActive(false);
         } else {
